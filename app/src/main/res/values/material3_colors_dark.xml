@@ -4,9 +4,9 @@
     <color name="signal_dark_colorPrimaryContainer">#464B5C</color>
     <color name="signal_dark_colorSecondary">#C1C6DD</color>
     <color name="signal_dark_colorSecondaryContainer">#414659</color>
-    <color name="signal_dark_colorSurface">#1B1C1F</color>
-    <color name="signal_dark_colorSurfaceVariant">#303133</color>
-    <color name="signal_dark_colorBackground">#1B1C1F</color>
+    <color name="signal_dark_colorSurface">#000000</color>
+    <color name="signal_dark_colorSurfaceVariant">#303033</color>
+    <color name="signal_dark_colorBackground">#000000</color>
     <color name="signal_dark_colorError">#FFB4A9</color>
     <color name="signal_dark_colorErrorContainer">#930006</color>
     <color name="signal_dark_colorOnPrimary">#1E2438</color>
@@ -22,11 +22,11 @@
     <color name="signal_dark_colorOnCustom">#FFFFFF</color>
     <color name="signal_dark_colorOnCustomVariant">#B3FFFFFF</color>
 
-    <color name="signal_dark_colorSurface1">#23242A</color>
-    <color name="signal_dark_colorSurface2">#272A31</color>
-    <color name="signal_dark_colorSurface3">#2C2F37</color>
-    <color name="signal_dark_colorSurface4">#2E3039</color>
-    <color name="signal_dark_colorSurface5">#31343E</color>
+    <color name="signal_dark_colorSurface1">#000000</color>
+    <color name="signal_dark_colorSurface2">#000000</color>
+    <color name="signal_dark_colorSurface3">#000000</color>
+    <color name="signal_dark_colorSurface4">#000000</color>
+    <color name="signal_dark_colorSurface5">#000000</color>
 
     <color name="signal_dark_colorTransparent1">#0AFFFFFF</color>
     <color name="signal_dark_colorTransparent2">#1FFFFFFF</color>
@@ -43,7 +43,7 @@
     <color name="signal_dark_colorNeutralInverse">#E0FFFFFF</color>
     <color name="signal_dark_colorNeutralVariantInverse">#A3FFFFFF</color>
 
-    <color name="signal_dark_colorBackground_92">#EB1B1C1F</color>
-    <color name="signal_dark_colorSurface_87">#DE1B1C1F</color>
-    <color name="signal_dark_colorSurfaceVariant_92">#EB303133</color>
+    <color name="signal_dark_colorBackground_92">#FF000000</color>
+    <color name="signal_dark_colorSurface_87">#FF000000</color>
+    <color name="signal_dark_colorSurfaceVariant_92">#FF000000</color>
 </resources>
